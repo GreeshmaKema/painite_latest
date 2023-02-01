@@ -16,8 +16,8 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class DriverScript extends StartBrowser 
 {
-	String inputFile = "C:\\Users\\91703\\eclipse-workspace\\pAInITe-master\\TestInput\\TestData.xlsx"; 
-	String outputFile = "C:\\Users\\91703\\eclipse-workspace\\pAInITe-master\\TestOutPut\\HybridReports.xlsx";
+	String inputFile = "C:\\Users\\Tharun\\Downloads\\Demo-Painite-master\\Demo-Painite-master\\TestInput\\TestData.xlsx"; 
+	String outputFile = "C:\\Users\\Tharun\\Downloads\\Demo-Painite-master\\Demo-Painite-master\\TestOutPut\\HybridReports.xlsx";
 	
 	com.relevantcodes.extentreports.ExtentReports reports;
 	ExtentTest test;
